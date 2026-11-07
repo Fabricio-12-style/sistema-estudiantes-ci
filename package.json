@@ -1,0 +1,22 @@
+{
+  "name": "sistema-estudiantes-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabricio-12-style/sistema-estudiantes-ci.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fabricio-12-style/sistema-estudiantes-ci/issues"
+  },
+  "homepage": "https://github.com/Fabricio-12-style/sistema-estudiantes-ci#readme",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
+}
