@@ -4,4 +4,5 @@ export function calcularPromedio(notas) {
 export function estaAprobado(promedio) {
     return promedio >= 11;
 }
-// Comentario para forzar el Pull Request
+// Comentario para forzar el Pull Requestgit add .
+//seguundo comentario para forzar el Pull Request
